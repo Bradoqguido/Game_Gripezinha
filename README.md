@@ -1,5 +1,5 @@
 # Game_Gripezinha
- Game made in unity for the A&B Game Jam III. 
+ Game made in unity for the A&B Game Jam IV. 
 
 # How to play
 
